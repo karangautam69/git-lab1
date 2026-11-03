@@ -14,3 +14,9 @@ Feature Branch Update
 
 This section demonstrates making changes in a separate Git branch before merging them into the master branch.
 
+GitHub Integration Practical
+
+Created by Karan Gautam.
+
+This branch contains updates for GitHub integration.
+
